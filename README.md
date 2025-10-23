@@ -1,6 +1,6 @@
 # Hi 👋
 
-I'm Valentin - a developer interested on reverse engineering and web dev. Also schizo privacy & foss enjoyer.
+I'm Valentin - a developer interested in Reverseengeneering and Web Development. Also schizo privacy & foss enjoyer.
 
 ---
 
