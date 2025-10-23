@@ -1,17 +1,17 @@
-# Hi 👋
+# About Me
 
 I'm Valentin - a developer interested in Reverseengeneering and Web Development. Also schizo privacy & foss enjoyer.
 
 ---
 
-## 🛠️ Skills
+## Skills
 - Languages: Java, Kotlin, Go, JavaScript & TypeScript, C, C++, C#, PHP
 - Frameworks: Nuxt, Laravel, ASP.NET Core (sadly), Springboot, Go-Fiber
 - Areas: Reverseengeneering, Web Development, Game Modding
 
 ---
 
-## 🚀 Featured Projekts:
+## Featured Projekts:
 
 | Project | Description | Status | Tech |
 |---|---|:---|:---|
@@ -22,7 +22,7 @@ I'm Valentin - a developer interested in Reverseengeneering and Web Development.
 
 ---
 
-## 🔐 PGP keys
+## PGP keys
 
 ### Generic purposes
 - Fingerprint: 6CB3B4BA0A768FADA0A522C0612935E5081FED22
