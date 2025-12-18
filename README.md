@@ -67,4 +67,5 @@ cmpldg8=
 
 ## 📫 Contact
 - Discord: v4lent1n0
+- SimpleX: https://smp15.simplex.im/a#nWY8e8QCUwt-aNoWnGnr-LHgAJjDPfIJIMaxiieYeAY
 ---
