@@ -2,13 +2,12 @@
 
 I'm Valentin - a developer interested in Reverseengeneering and Web Development. Also schizo privacy & foss enjoyer.
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Exeos&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
 ## Skills
 - Languages: Java, Kotlin, Go, JavaScript & TypeScript, C, C++, C#, PHP
 - Frameworks: Nuxt, Laravel, ASP.NET Core (sadly), Springboot, Go-Fiber
 - Areas: Reverseengeneering, Web Development, Game Modding
-
 ---
 
 ## Featured Projekts:
