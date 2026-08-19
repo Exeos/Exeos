@@ -2,7 +2,7 @@
 
 I'm Valentin - a developer interested in Reverseengeneering and Web Development. Also schizo privacy & foss enjoyer.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Exeos&theme=radical&show_icons=true&hide_border=true&count_private=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Exeos&hide_title=true&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=Exeos&hide_title=true&show_icons=true&include_all_commits=true&theme=radical)
 
 ## Skills
 - Languages: Java, Kotlin, Go, JavaScript & TypeScript, C, C++, C#, PHP
